@@ -1,5 +1,5 @@
-var Transaction = 'Commande FR';
-var Catalog = 'Catalog Buyers';
+var Transaction = 'Sales Order';
+var Catalog = 'Default Catalog';
 var blocks_config = {
     'free_shipping': {
         text: "Frais de port offert à partir de ",
