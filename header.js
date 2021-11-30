@@ -1,6 +1,6 @@
-var Transaction = 'Commande FR';
-var Catalog = 'Catalog Buyers';
-const logo = 'https://ludopepperi.github.io/Corbeo/CorbeoLogo.png';
+var Transaction = 'Sales Order';
+var Catalog = 'Default Catalog';
+const logo = 'https://ludopepperi.github.io/RVF/RVFLogo.png';
 const LeftMenu = [
 
 
