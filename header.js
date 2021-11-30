@@ -30,7 +30,7 @@ const RightMenu = [
         title: "Historique",
         action: "navigation",
         deepLink: 'list/all_activities'
-    },
+    }
     /*{
         activity: "Mes contacts",
         title: "Mes Contacts",
