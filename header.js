@@ -1,6 +1,6 @@
 var Transaction = 'Sales Order';
 var Catalog = 'Default Catalog';
-const logo = 'https://ludopepperi.github.io/RVF/logo-royal-velo-france.webp';
+const logo = 'https://ludopepperi.github.io/RVF/logo-royal-velo-france.png';
 const LeftMenu = [
 
 
