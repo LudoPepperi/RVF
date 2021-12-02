@@ -1,6 +1,6 @@
 var Transaction = 'Sales Order';
-var Catalog = 'Default Catalog'
-const logo = 'https://ludopepperi.github.io/RVF/logoRVF.jpg'
+var Catalog = 'Default Catalog';
+const logo = 'https://ludopepperi.github.io/RVF/logoRVF.jpg';
 const LeftMenu = [
 
 
@@ -19,7 +19,7 @@ const RightMenu = [
         action: "navigation",
         deepLink: 'list/all_activities'
     }
-]
+];
 /*actions:
 setUUIDandNav
 createNewTransaction
