@@ -18,21 +18,7 @@ const RightMenu = [
         title: "Historique",
         action: "navigation",
         deepLink: 'list/all_activities'
-    },
-    {
-        activity: "Mes contacts",
-        title: "Mes Contacts",
-        action: "createNewActivity",
-        deepLink: 'activities/details/{{UUID}}'
-    },
-    {
-        activity: "Nous contacter",
-        title: "Nous contacter",
-        action: "createNewActivity",
-        deepLink: 'activities/details/{{UUID}}'
-    },
-
-
+    }
 ]
 /*actions:
 setUUIDandNav
