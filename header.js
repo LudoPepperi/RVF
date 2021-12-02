@@ -1,6 +1,5 @@
 var Transaction = 'Commande B2B';
 var Catalog = 'B2B'
-const logo = 'https://ludopepperi.github.io/RVF/logoRVF.jpg';
 const LeftMenu = [
 	
  
