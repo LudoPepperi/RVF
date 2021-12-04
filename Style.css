@@ -703,7 +703,7 @@ button {
     }
 }
 
-#categories {
+/*#categories {
     -ms-grid-row: auto;
     -ms-grid-column: 1 / 4;
     grid-area: categories;
@@ -731,7 +731,7 @@ button {
         grid-template-columns: 1fr 1fr 1fr 1fr;
         margin: 0 1rem 1rem 1rem;
     }
-}
+}*/
 
 
 
