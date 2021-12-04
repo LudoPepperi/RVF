@@ -704,21 +704,25 @@ button {
 }
 
 /*#categories {
-    display: flex;
+    -ms-grid-row: auto;
+    -ms-grid-column: 1 / 4;
+    grid-area: categories;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1rem;
 }
-
 @media screen and (max-width: 768px) {
     #categories {
         margin: 0 1.5rem 1.5rem 1.5rem;
         grid-gap: 1.5rem;
     }
 }
-
 @media screen and (max-width: 576px) {
     .zopim {
         display: none !important;
     }
-
     #categories {
         -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
